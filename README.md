@@ -12,11 +12,11 @@ Always curious, always learning. Feel free to check out my projects and connect 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hallo, ich bin Sarah! 👋
+Moin, ich bin Sarah! 👋
 
 Ich habe kürzlich meinen IHK-Abschluss als Datenanalystin gemacht und freue mich darauf, in diesem Bereich weiter zu wachsen. 
 
-Hier findet man einen Mix aus Deutsch und Englisch, was meinen Kopf tatsächlich gut widerspiegelt.
+Hier findet man einen Mix aus Deutsch und Englisch, was meinen Kopf tatsächlich gut wiederspiegelt.
 
 Ich arbeite mit Python, SQL und Power BI und habe Spaß daran, neue Tools und Ideen zu entdecken.
 
