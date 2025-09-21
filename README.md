@@ -1,4 +1,5 @@
-Hi there, my name is Sarah! 👋 
+Hi there, my name is Sarah! 👋
+
 I recently completed my IHK degree in Data Analytics and I’m excited to keep growing in this field.
 
 Some of my projects are in German, since they were created together with classmates or for German-speaking audiences. I’m fluent in English and open to international collaboration.
@@ -12,6 +13,7 @@ Always curious, always learning. Feel free to check out my projects and connect 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hallo, ich bin Sarah! 👋
+
 Ich habe kürzlich meinen IHK-Abschluss als Datenanalystin gemacht und freue mich darauf, in diesem Bereich weiter zu wachsen. 
 
 Hier findet man einen Mix aus Deutsch und Englisch, was meinen Kopf tatsächlich gut widerspiegelt.
